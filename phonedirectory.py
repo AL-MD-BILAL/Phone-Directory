@@ -1,5 +1,12 @@
 import mysql.connector as mys
-mydb=mys.connect(user="almdbilal",passwd="bilal2bilal")
+import argparse
+
+parser=argparse.ArgumentParser(description="Phone Directory using Python and MySQL")
+parser.add_argument('-u', '--username',help="Enter the username of MySQL Server", required=True)
+parser.add_argument('-p', '--password',help="Enter the password of MySQL Server", required=True)
+args=parser.parse_args()
+
+mydb=mys.connect(user=args.username,passwd=args.password)
 c=mydb.cursor()
 c.execute('create database if not exists PHONE_DIRECTORY')
 c.execute('use PHONE_DIRECTORY')
