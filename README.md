@@ -55,6 +55,9 @@ Type or copy the below code in your terminal to use the tool in your computer
 # To use the tool
 python phonedirectory.py -u "Your MySQL username" -p "Your MySQL password"
 
+Note : Incase you have MySQL Server already installed and forgot what the password is try changing the password using the below link
+https://www.cyberciti.biz/faq/mysql-change-user-password/
+
 ```
 
 ## Features
