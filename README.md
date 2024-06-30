@@ -56,3 +56,12 @@ Type or copy the below code in your terminal to use the tool in your computer
 python phonedirectory.py -u "Your MySQL username" -p "Your MySQL password"
 
 ```
+
+## Features
+
+The features of the tool are as follows
+- Insertion of any number of records
+- Search for any record easily
+- Update any reacord efficiently
+- Deletion of any record
+
