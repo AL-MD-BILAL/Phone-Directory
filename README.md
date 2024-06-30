@@ -14,7 +14,7 @@ This python tool is used to create a MySQL database named 'PHONE_DIRECTORY' usin
 ## Prerequisities
 
 Before you begin, ensure you have met the following requirements
-- [MySQL Server]
+- MySQL Server
 
 ```bash
 # Use the below link to know about the installation process
