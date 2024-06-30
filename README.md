@@ -3,12 +3,11 @@ This python tool is used to create a MySQL database named 'PHONE_DIRECTORY' usin
 
 ## Table of Contents
 
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Requirements](#requirements)
-- [Usage](#usage)
-- [Features](#features)
-- [Usage](#usage)
+- [Prerequisites](#Prerequisites)
+- [Installation](#Installation)
+- [Requirements](#Requirements)
+- [Usage](#Usage)
+- [Features](#Features)
 
 
 ## Prerequisities
