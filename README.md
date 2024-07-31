@@ -31,7 +31,7 @@ Type or copy the below code in your terminal to install the tool in your compute
 
 ```bash
 # Clone the repository
-git clone https://github.com/AL-MD-BILAL/Phone-Directory.git
+git clone https://github.com/al-mohamed-bilal/Phone-Directory.git
 
 # Change directory to the Phone-Directory directory
 cd Phone-Directory
